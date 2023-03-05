@@ -1,0 +1,16 @@
+{
+  "name": "paginalovt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "start": "node app",
+  "keywords": [
+    "Lovt"
+  ],
+  "author": "Joice Aurino Lima",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.19",
+    "normalize": "^0.3.1"
+  }
+}
